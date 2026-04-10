@@ -1,0 +1,15 @@
+public enum ZoneType {
+    NORMAL,
+    CRASH,
+    PISTE_DECOLLAGE,
+    OEIL_TEMPETE,
+    OASIS,
+    TUNNEL,
+
+    CAVE_OF_EMBERS,
+    HOWLING_GARDEN,
+    TEMPLE_OF_THE_SUN,
+    TIDAL_PALACE,
+
+    AUCUN
+}
